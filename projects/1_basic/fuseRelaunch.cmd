@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Ra152-2016/LPRS2/lab1-master/projects/1_basic/clk_counter_tb_isim_beh.exe" -prj "D:/Ra152-2016/LPRS2/lab1-master/projects/1_basic/clk_counter_tb_beh.prj" "work.clk_counter_tb" 

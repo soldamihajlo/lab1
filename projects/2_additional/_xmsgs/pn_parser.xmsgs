@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/clk_counter.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/clk_div.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/clk_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/debounce.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/debouncer.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/debouncer_one_pulse.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/flip_flop.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/onepulse.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/reg.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/timer_counter.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/timer_fsm.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/top.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">D:/Ra152-2016/LPRS2/lab1-master/projects/2_additional/src/rtl/top.vhd</arg>&quot; Line <arg fmt="%d" index="2">137</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+</messages>
+
